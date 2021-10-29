@@ -1,0 +1,3 @@
+title=Clock
+author=John Kiriakou
+orientation=portrait
